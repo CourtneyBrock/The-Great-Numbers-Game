@@ -1,0 +1,62 @@
+.container1 {
+    border: solid 5px salmon;
+    width: 350px;
+    font-family: monospace;
+    font-weight: bolder;
+    text-align: center;
+}
+h1 {
+    background-color: aquamarine;
+    color: slateblue;
+    text-shadow: #FC0 1px 0 10px;
+
+}
+p {
+    background-color: salmon;
+    color: aquamarine;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+.bet {
+    background-color: salmon;
+    color: aquamarine;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+}
+.input {
+    margin-top: 10px;
+    margin-bottom: 5px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color: antiquewhite;
+    background-color: slateblue;
+    font-weight: bolder;
+    font-size: x-large;
+    box-shadow: darkslateblue 5px, 7px solid inset;
+    box-shadow: 5px 5px grey;
+    box-shadow: 3px 3px 3px 3px darkslategray;
+}
+.button1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: salmon;
+    font-weight: bold;
+    color: aquamarine;
+    border: solid   8px white;
+    border-radius: 75%;
+    height: 50px;
+    box-shadow: 3px 5px darkslategray;
+    text-shadow: 1px 1px 2px black, 0 0 1em blue, 0 0 0.2em blue;
+
+}
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.h2a {
+    margin-left: 150px;
+}
+.h2b {
+    margin-left: 150px;
+}
